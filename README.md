@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kawonise Abdullateef
 - 👀 I’m interested in Machine learning and Artificial Intelligence 
-- 🌱 I’m currently learning Reinforcement Learning 
+- 🌱 I’m currently learning Reinforcement Learning and Machine Learning in Production
 - 💞️ I’m looking to collaborate on any ML / AI project
 - 📫 How to reach me abdullateefkawonise@gmail.com
 
